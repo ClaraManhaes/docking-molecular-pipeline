@@ -43,7 +43,7 @@ As rotações dinâmicas completas das macromoléculas em alta resolução podem
 ---
 
 ### 💼 Aplicação em Inovação & Medicina de Precisão
-A triagem prévia *in silico* de alvos correlacionados a vias inflamatórias e microambientes teciduais otimiza o ciclo de validação de biomarcadores e candidatos terapêuticos. Essa abordagem computacional reduz o custo de bancada de P&D e fornece a fundamentação analítica para o desenvolvimento de soluções integradas, como a arquitetura de dados e biossensores proposta no projeto **OncoChip**[span_0](start_span)[span_0](end_span).
+A triagem prévia *in silico* de alvos correlacionados a vias inflamatórias e microambientes teciduais otimiza o ciclo de validação de biomarcadores e candidatos terapêuticos. Essa abordagem computacional reduz o custo de bancada de P&D e fornece a fundamentação analítica para o desenvolvimento de soluções integradas, como a arquitetura de dados e biossensores proposta no projeto **OncoChip**.
 
 ---
 

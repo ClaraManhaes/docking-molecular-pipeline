@@ -38,7 +38,7 @@ Visualização tridimensional das subunidades e conformações espaciais favorá
 #### 3. Otimização Conformacional e Geometria do Ligante Candidato
 Parametrização e conformação de estrutura molecular ramificada para suporte aos ensaios de afinidade.
 
-![Ligante / Polissacarídeo](mod%20V.%20Polissacarideo%20...png)
+79695683-7610-402f-8681-ebb5961
 
 ---
 

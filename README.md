@@ -19,7 +19,6 @@ Estudo estrutural *in silico* focado na simulação e predição de afinidade de
 ---
 
 ### 🎥 Demonstração Visual & Resultados
-> *(Insira aqui a gravação ou imagem demonstrando a conformação no sítio ativo)*
 
 ---
 

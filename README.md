@@ -7,7 +7,7 @@ Estudo estrutural *in silico* focado na simulação, ancoramento e predição de
 ### 🎯 Objetivos Estratégicos & Técnicos
 * Modelar e parametrizar alvos macromoleculares terapêuticos (5-LOX e COX-1).
 * Identificar cavidades ativas e delimitar caixas conformacionais (*grid box*).
-* Otimizar ligantes candidatos e avaliar conformações de menor energia livre.
+* Avaliar conformações termodinamicamente favoráveis e de menor energia livre.
 * Mapear interações químicas críticas (pontes de hidrogênio e contatos hidrofóbicos).
 
 ---
@@ -35,13 +35,6 @@ Visualização tridimensional das subunidades e conformações espaciais favorá
 
 ---
 
-#### 3. Otimização Conformacional e Geometria do Ligante Candidato
-Parametrização e conformação de estrutura molecular ramificada para suporte aos ensaios de afinidade.
-
-79695683-7610-402f-8681-ebb5961
-
----
-
 ### 📁 Acesso aos Vídeos de Simulação em 3D
 As rotações dinâmicas completas das macromoléculas em alta resolução podem ser visualizadas diretamente na pasta de demonstração:
 
@@ -50,7 +43,7 @@ As rotações dinâmicas completas das macromoléculas em alta resolução podem
 ---
 
 ### 💼 Aplicação em Inovação & Medicina de Precisão
-A triagem prévia *in silico* de alvos correlacionados a vias inflamatórias e microambientes teciduais otimiza o ciclo de validação de biomarcadores e candidatos terapêuticos. Essa abordagem computacional reduz o custo de bancada de P&D e fornece a fundamentação analítica para o desenvolvimento de soluções integradas, como a arquitetura de dados e biossensores proposta no projeto **OncoChip**.
+A triagem prévia *in silico* de alvos correlacionados a vias inflamatórias e microambientes teciduais otimiza o ciclo de validação de biomarcadores e candidatos terapêuticos. Essa abordagem computacional reduz o custo de bancada de P&D e fornece a fundamentação analítica para o desenvolvimento de soluções integradas, como a arquitetura de dados e biossensores proposta no projeto **OncoChip**[span_0](start_span)[span_0](end_span).
 
 ---
 
